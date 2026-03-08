@@ -1,0 +1,12 @@
+Backend/.env
+# Python
+__pycache__/
+.venv/
+.env
+*.pyc
+
+# Node
+node_modules/
+
+# temp files
+*.mp3
